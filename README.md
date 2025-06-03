@@ -78,15 +78,15 @@
 
 ### 📌 Projects I’m Proud Of
 
-- 🧭 **Delhi Metro GUI App** : *Shortest paths, color-coded lines, fare calc — all visualized in C++ + SFML!*  
-
-- 📊 **Sudoku Solver (Backtracking)** : *Takes the logic of recursion and makes it beautifully solvable!*  
+- 🧭 **Delhi Metro GUI App** : *Shortest paths, color-coded lines, fare calc — all visualized in C++*
 
 - 🎮 **Tic-Tac-Toe with an AI Twist** : *A childhood game with a smart AI-powered opponent.*  
 
-- 🍽️ **Restaurant Billing System** : *Simple yet powerful GUI app that handles restaurant orders like a pro.*
-
 - 🎨 **Prompt-to-Palette Generator** : *Built using Streamlit, this fun ML app generates color palettes based on text prompts.*
+
+- 📊 **Sudoku Solver (Backtracking)** : *Takes the logic of recursion and makes it beautifully solvable!*  
+
+- 🍽️ **Restaurant Billing System** : *Simple yet powerful GUI app that handles restaurant orders like a pro.*
 
 ---
 
