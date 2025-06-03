@@ -79,8 +79,6 @@
 
 > My code has more personality than some rom-com characters... and way fewer bugs 🐞❤️
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
 </p>
