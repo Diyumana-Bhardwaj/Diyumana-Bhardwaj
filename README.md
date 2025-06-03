@@ -92,7 +92,7 @@
 
 ### 💬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/diyumana-bhardwaj) – Let's network like pros!
+- 💼 [LinkedIn](https://linkedin.com/in/diyumana-bhardwaj) – Let's network !
 - 🌐 [Portfolio](https://your-portfolio-link.com) – Coming soon with pixel-perfect polish!
 - 📫 Reach me at: bhardwajdiyumana@gmail.com
 
