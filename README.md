@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Diyumana+Bhardwaj;AIiAI+%26+ML+Explorer+%7C+Creative+Coder+%7C+Tech+Storyteller" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Diyumana+Bhardwaj; 
+  AI+%26+ML+Explorer+%7C+Creative+Coder+%7C+Tech+Storyteller" />
 </p>
 
 <p align="center">
