@@ -29,38 +29,40 @@
 
 
 ### Tech & Tools Preference
+<p>
+  <!--frontend -->
+  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+  
+  <!--backend-->
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+  
+  <!-- rest-->
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  
+  <!-- machine learning tool-->
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  
+  <!-- ML / AI -->
+  <img src="https://img.shields.io/badge/-Machine%20Learning-102349?style=flat&logo=scikit-learn&logoColor=orange" />
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-ffffff?style=flat&logo=OpenAI&logoColor=black" />
+  
+  <!-- Cloud & Google Skills -->
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Skills-F4B400?style=flat&logo=google&logoColor=white" />
 
-<!--frontend -->
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-
-<!--backend-->
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-
-<!-- rest-->
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-
-<!-- machine learning tool-->
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-
-<!-- ML / AI -->
-<img src="https://img.shields.io/badge/-Machine%20Learning-102349?style=flat&logo=scikit-learn&logoColor=orange" />
-<img src="https://img.shields.io/badge/-Artificial%20Intelligence-ffffff?style=flat&logo=OpenAI&logoColor=black" />
-
-<!-- Cloud & Google Skills -->
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Skills-F4B400?style=flat&logo=google&logoColor=white" />
+</p>
 
 ---
 
