@@ -100,7 +100,7 @@
 
 ### ✨ Fun Fact
 
-> My code has more personality than some rom-com characters... and way fewer bugs 🐞❤️
+> Exploring tech  world is my version of traveling — one bug at a time! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">❤️
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
