@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>AI/ML Explorer • Code Crafter • UI Enthusiast • Creative Technophile</em>
+  <em>AI/ML Explorer • Code Crafter • Frontend Enthusiast • Creative Technophile</em>
 </p>
 
 ---
