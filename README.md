@@ -99,7 +99,7 @@
 ---
 
 ### ✨ Fun Fact
-Exploring tech  world is my version of traveling — one bug at a time! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px">❤️
+> Exploring tech  world is my version of traveling — one bug at a time! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px">❤️
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
