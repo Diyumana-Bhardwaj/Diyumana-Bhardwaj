@@ -22,11 +22,11 @@
 ---
 
 ### Proficient Coding Languages
-
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-
+<p>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+</p>
 
 ### Tech & Tools Preference
 <p>
@@ -78,20 +78,15 @@
 
 ### 📌 Projects I’m Proud Of
 
-- 🧭 **Delhi Metro GUI App**  
-  *Shortest paths, color-coded lines, fare calc — all visualized in C++ + SFML!*  
+- 🧭 **Delhi Metro GUI App** : *Shortest paths, color-coded lines, fare calc — all visualized in C++ + SFML!*  
 
-- 📊 **Sudoku Solver (Backtracking)**  
-  *Takes the logic of recursion and makes it beautifully solvable!*  
+- 📊 **Sudoku Solver (Backtracking)** : *Takes the logic of recursion and makes it beautifully solvable!*  
 
-- 🎮 **Tic-Tac-Toe with an AI Twist**  
-  *A childhood game with a smart AI-powered opponent.*  
+- 🎮 **Tic-Tac-Toe with an AI Twist** : *A childhood game with a smart AI-powered opponent.*  
 
-- 🍽️ **Restaurant Billing System**  
-  *Simple yet powerful GUI app that handles restaurant orders like a pro.*
+- 🍽️ **Restaurant Billing System** : *Simple yet powerful GUI app that handles restaurant orders like a pro.*
 
-- 🎨 **Prompt-to-Palette Generator**  
-  *Built using Streamlit, this fun ML app generates color palettes based on text prompts.*
+- 🎨 **Prompt-to-Palette Generator** : *Built using Streamlit, this fun ML app generates color palettes based on text prompts.*
 
 ---
 
