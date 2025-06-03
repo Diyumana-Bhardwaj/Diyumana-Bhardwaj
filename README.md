@@ -21,20 +21,35 @@
 
 ---
 
-### 💻 Tech Toolbox
+### Proficient Coding Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### Tech & Tools Preference
+
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102770?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/-AI-black?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102770?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/-AI-black?style=for-the-badge&logo=OpenAI&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">)
+![MySQL](<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">)
+![MongoDB](<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">)
+![Github](<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">)
+![VScode](<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">)
+![Google Cloud](<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">)
+![Express.js](<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">)
+![Node.js](<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">)
+
+
+
 
 ---
 
