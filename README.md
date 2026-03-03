@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.behance.net/gallery/179531059/Kirbys-Chill-Land/modules/1014099511" alt="banner" width="70%" />
+  <img src="https://www.behance.net/embed/project/179531059?ilo0=1" alt="banner" width="70%" />
 </p>
 
 <p align="center">
