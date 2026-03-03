@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Diyumana+Bhardwaj;AI+%26+ML+Explorer+%7C+Creative+Coder+%7C+Tech+Enthusiast" />
 </p>
 
-<iframe src="https://www.behance.net/embed/project/179531059?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" alt="banner" width="600">
+</p>
 
 <p align="center">
   <em>AI/ML Explorer • Code Crafter • Frontend Enthusiast • Creative Technophile</em>
