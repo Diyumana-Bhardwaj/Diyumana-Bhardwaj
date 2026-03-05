@@ -32,9 +32,8 @@ I like turning **data + algorithms + code** into systems that actually **do some
 
 ---
 
-# 💻 Core Languages
-
 <p>
+  <h3>💻 Core Languages<h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
