@@ -32,68 +32,65 @@ I like turning **data + algorithms + code** into systems that actually **do some
 
 ---
 
-<p>
-  <h3>💻 Core Languages</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+### 💻 Core Languages
+<p> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
 </p>
 
----
+## 🛠 Tech Stack
 
-# 🛠 Tech Stack
-
-<p>
-  <h3>Machine Learning & Data</h3>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat">
+### Machine Learning & Data
+<p> 
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"> 
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"> 
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"> 
 </p>
 
-Concepts: **Supervised Learning, Unsupervised Learning, Feature Engineering, Model Training & Evaluation**
+> Concepts: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Training & Evaluation
 
-<p>
-  <h3>Frontend</h3>
-<img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat">
-<img src="https://img.shields.io/badge/SVG%20Animations-FF6F00?style=flat">
+### Frontend
+<p> 
+  <img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=00c8ff"> 
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"> 
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat"> 
+  <img src="https://img.shields.io/badge/SVG%20Animations-FF6F00?style=flat"> 
 </p>
 
-
-<p>
-  <h3>Backend & APIs</h3>
-<img src="https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404040?style=flat">
-<img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat">
-<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat">
+### Backend & APIs
+<p> 
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=node.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Express.js-404040?style=flat"> 
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat"> 
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat"> 
 </p>
 
-Experience with **server-side logic, authentication, API integration, and data pipelines.** 
+> Experience with server-side logic, authentication, API integration, and data pipelines.
 
-<p>
-  <h3>Databases</h3>
-<img src="https://img.shields.io/badge/MySQL-F29111?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white">
+### Databases
+<p> 
+  <img src="https://img.shields.io/badge/MySQL-F29111?style=flat&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white"> 
 </p>
 
-Experience with **data modeling, query optimization, and ML data preprocessing workflows.**
+> Experience with data modeling, query optimization, and ML data preprocessing workflows.
 
-<p>
-<h3>Developer Tools</h3>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black">
+### Developer Tools
+<p> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"> 
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"> 
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"> 
 </p>
 
 ---
