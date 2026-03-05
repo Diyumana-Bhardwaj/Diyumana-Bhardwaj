@@ -122,13 +122,6 @@ I like turning **data + algorithms + code** into systems that actually **do some
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Diyumana-Bhardwaj&show_icons=true&theme=tokyonight" />
-</p>
-
-
 ### 💬 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/diyumana-bhardwaj) – Let's network !
