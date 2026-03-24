@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,50:1a0533,100:2d1b69&amp;height=220&amp;section=header&amp;text=Diyumana%20Bhardwaj&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Explorer%20%7C%20Systems%20Builder%20%7C%20Creative%20Technologist&amp;descAlignY=58&amp;descSize=17&amp;animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diyumana%20Bhardwaj&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20Web%20and%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Typing SVG"/>
+
 
 <br/>
 
