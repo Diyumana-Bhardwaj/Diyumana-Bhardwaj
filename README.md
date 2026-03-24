@@ -6,13 +6,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diyumana%20Bhardwaj&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20Web%20and%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
-<br/>
+<div align ="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyumana-bhardwaj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diyumanabhardwaj.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajdiyumana@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diyumana-Bhardwaj)
 [![Profile Views](https://komarev.com/ghpvc/?username=Diyumana-Bhardwaj&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Diyumana-Bhardwaj)
+
+</div>
 
 </div>
 
