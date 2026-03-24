@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,50:1a0533,100:2d1b69&amp;height=220&amp;section=header&amp;text=Diyumana%20Bhardwaj&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Explorer%20%7C%20Systems%20Builder%20%7C%20Creative%20Technologist&amp;descAlignY=58&amp;descSize=17&amp;animation=fadeIn" width="100%"/>
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=B.Tech+CSE+%7C+AI+%26+ML+Specialization;Building+where+ML+meets+real-world+engineering;Python+%7C+C%2B%2B+%7C+React+%7C+TensorFlow;Open+to+Internships+%26+Collaborations" alt="Typing SVG"/>
 
 <br/>
 
