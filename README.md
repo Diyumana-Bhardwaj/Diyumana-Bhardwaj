@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:2d1b69&height=220&section=header&text=Diyumana%20Bhardwaj&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Explorer%20%7C%20Systems%20Builder%20%7C%20Creative%20Technologist&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%7C+AI+%26+ML+Specialization;Building+where+ML+meets+real-world+engineering;Python+%7C+C%2B%2B+%7C+React+%7C+TensorFlow;Open+to+Internships+%26+Collaborations!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%7C+AI+%26+ML+Specialization;Building+where+ML+meets+real-world+engineering;Python+%7C+C%2B%2B+%7C+React+%7C+TensorFlow;Open+to+Internships+%26+Collaborations" alt="Typing SVG"/>
 
 <br/>
 
@@ -16,14 +16,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 diyumana = {
     "name"        : "Diyumana Bhardwaj",
-    "education"   : "B.Tech CSE (AI & ML) — SRM Institute of Science & Technology",
+    "education"   : "B.Tech CSE (AI and ML) — SRM Institute of Science and Technology",
     "location"    : "Delhi, India",
-    "status"      : "Open to internships & collaborations",
+    "status"      : "Open to internships and collaborations",
     "passion"     : "Building complete systems — not just scripts",
     "intersection": ["Machine Learning", "Backend Engineering", "Creative Frontend"],
     "quote"       : "Exploring tech is my version of traveling — one bug at a time!"
@@ -34,7 +34,7 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Core Languages**
 
@@ -78,28 +78,28 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🚇 [Delhi Veins](https://github.com/Diyumana-Bhardwaj/Delhi-Veins) | Metro routing engine with Dijkstra, LRU cache and multi-thread optimization | C++, Graph Algorithms |
-| 🌐 [Portfolio Website](https://diyumanabhardwaj.vercel.app/) | Immersive developer portfolio with 3D, GSAP animations and SVG storytelling | React, GSAP, Spline, Tailwind |
-| 🌱 [Potato Disease Classifier](https://github.com/Diyumana-Bhardwaj) | CNN model on 10k+ images, 90-95% accuracy for crop disease detection | Python, TensorFlow, Keras |
-| 🎨 [Prompt to Palette](https://github.com/Diyumana-Bhardwaj/Prompt_2_Palette) | ML app that generates color palettes from text prompts via image APIs | Python, Streamlit, Clustering |
-| 📝 [Meeting Summarizer](https://github.com/Diyumana-Bhardwaj) | Transformer-based NLP system to summarize meetings and extract key info | Python, NLP, Transformers |
-| 🧩 [Sudoku Solver](https://github.com/Diyumana-Bhardwaj/Sudoku-Solver) | Java app with intuitive UI and algorithm visualization for Sudoku solving | Java |
+| [Delhi Veins](https://github.com/Diyumana-Bhardwaj/Delhi-Veins) | Metro routing engine with Dijkstra, LRU cache and multi-thread optimization | C++, Graph Algorithms |
+| [Portfolio Website](https://diyumanabhardwaj.vercel.app/) | Immersive developer portfolio with 3D, GSAP animations and SVG storytelling | React, GSAP, Spline, Tailwind |
+| [Potato Disease Classifier](https://github.com/Diyumana-Bhardwaj) | CNN model on 10k+ images, 90-95% accuracy for crop disease detection | Python, TensorFlow, Keras |
+| [Prompt to Palette](https://github.com/Diyumana-Bhardwaj/Prompt_2_Palette) | ML app that generates color palettes from text prompts via image APIs | Python, Streamlit, Clustering |
+| [Meeting Summarizer](https://github.com/Diyumana-Bhardwaj) | Transformer-based NLP system to summarize meetings and extract key info | Python, NLP, Transformers |
+| [Sudoku Solver](https://github.com/Diyumana-Bhardwaj/Sudoku-Solver) | Java app with intuitive UI and algorithm visualization for Sudoku solving | Java |
 
 ---
 
-## 🚧 Currently Building
+## Currently Building
 
-- 🏠 **Real Estate Recommendation Platform** — Full-stack platform with ML-based filtering, similarity recommendations, and an NLP chatbot for natural language property queries
-- 📈 **Unified Time-Series Forecasting Framework** — Reusable pipeline supporting ARIMA, LSTM, GRU with auto preprocessing, seasonality detection and GUI metric visualization
-- 🤖 **NLP Property Chatbot** — Conversational interface for querying property listings using NLP intent detection
+- **Real Estate Recommendation Platform** — Full-stack platform with ML-based filtering, similarity recommendations, and an NLP chatbot for natural language property queries
+- **Unified Time-Series Forecasting Framework** — Reusable pipeline supporting ARIMA, LSTM, GRU with auto preprocessing, seasonality detection and GUI metric visualization
+- **NLP Property Chatbot** — Conversational interface for querying property listings using NLP intent detection
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -112,7 +112,7 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -122,11 +122,48 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
 
 ---
 
+## Snake Eating My Contributions
+
 <div align="center">
 
-### 💬 Let's Connect and Build Something Amazing!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diyumana-Bhardwaj/Diyumana-Bhardwaj/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diyumana-Bhardwaj/Diyumana-Bhardwaj/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Diyumana-Bhardwaj/Diyumana-Bhardwaj/output/github-snake.svg"/>
+</picture>
 
-*"Exploring tech is my version of traveling — one bug at a time!"* 🌍
+</div>
+
+---
+
+## Thought of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+</div>
+
+---
+
+## WakaTime Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> Setup WakaTime: https://wakatime.com and add WAKATIME_API_KEY to repo secrets, then enable waka-readme GitHub Action.
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect and Build Something Amazing!
+
+*"Exploring tech is my version of traveling — one bug at a time!"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:2d1b69&height=100&section=footer" width="100%"/>
 
