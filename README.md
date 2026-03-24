@@ -1,138 +1,133 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Diyumana+Bhardwaj;AI+%26+ML+Explorer+%7C+Creative+Coder+%7C+Tech+Enthusiast" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" alt="banner" width="600">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:2d1b69&height=220&section=header&text=Diyumana%20Bhardwaj&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Explorer%20%7C%20Systems%20Builder%20%7C%20Creative%20Technologist&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <em>AI/ML Explorer • Systems Builder • Creative Technologist</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%7C+AI+%26+ML+Specialization;Building+where+ML+meets+real-world+engineering;Python+%7C+C%2B%2B+%7C+React+%7C+TensorFlow;Open+to+Internships+%26+Collaborations!" alt="Typing SVG"/>
 
----
+<br/>
 
-# 🌟 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyumana-bhardwaj)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diyumanabhardwaj.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajdiyumana@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diyumana-Bhardwaj)
+[![Profile Views](https://komarev.com/ghpvc/?username=Diyumana-Bhardwaj&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Diyumana-Bhardwaj)
 
-🎓 **B.Tech CSE (AI & ML)** — SRM Institute of Science and Technology
-
-I enjoy building systems where **machine learning, algorithms, and real-world software engineering intersect**.
-
-Rather than writing isolated scripts, I prefer designing **complete systems** — data pipelines, predictive models, backend services, and interactive interfaces that solve real problems.
-
-My interests lie at the intersection of:
-
-* 🤖 **Machine Learning & AI Systems**
-* ⚙️ **Backend Engineering & System Design**
-* 📊 **Data Analysis & Predictive Modeling**
-* 🎨 **Interactive Frontend Engineering**
-
-In simple terms:
-I like turning **data + algorithms + code** into systems that actually **do something useful.**
+</div>
 
 ---
 
-### 💻 Core Languages
-<p> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
-</p>
+## 🧠 About Me
 
-## 🛠 Tech Stack
+```python
+diyumana = {
+    "name"        : "Diyumana Bhardwaj",
+    "education"   : "B.Tech CSE (AI & ML) — SRM Institute of Science & Technology",
+    "location"    : "Delhi, India",
+    "status"      : "Open to internships & collaborations",
+    "passion"     : "Building complete systems — not just scripts",
+    "intersection": ["Machine Learning", "Backend Engineering", "Creative Frontend"],
+    "quote"       : "Exploring tech is my version of traveling — one bug at a time!"
+}
+```
 
-### Machine Learning & Data
-<p> 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"> 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"> 
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"> 
-</p>
-
-> Concepts: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Training & Evaluation
-
-### Frontend
-<p> 
-  <img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=00c8ff"> 
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"> 
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"> 
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat"> 
-  <img src="https://img.shields.io/badge/SVG%20Animations-FF6F00?style=flat"> 
-</p>
-
-### Backend & APIs
-<p> 
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=node.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Express.js-404040?style=flat"> 
-  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat"> 
-  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat"> 
-</p>
-
-> Experience with server-side logic, authentication, API integration, and data pipelines.
-
-### Databases
-<p> 
-  <img src="https://img.shields.io/badge/MySQL-F29111?style=flat&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white"> 
-</p>
-
-> Experience with data modeling, query optimization, and ML data preprocessing workflows.
-
-### Developer Tools
-<p> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> 
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"> 
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"> 
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"> 
-</p>
+I enjoy building systems where **machine learning, algorithms, and real-world software engineering intersect** — from data pipelines and predictive models to backend services and immersive interfaces.
 
 ---
 
-# 🚧 Currently Working On
+## 🛠️ Tech Stack
 
-* 🏠 **Real Estate Recommendation Platform** — A **multi-page full-stack property discovery platform** with React frontend and Node/Express backend connected to MongoDB. Implements **ML-based property filtering, similarity-based recommendations, and an NLP chatbot interface** for natural language property queries.
+**Core Languages**
 
-* 📈 **Unified Time-Series Forecasting Framework** — A reusable **univariate forecasting pipeline** that automatically handles preprocessing, seasonality detection, trend analysis, and model evaluation. Supports models such as **ARIMA, LSTM, and GRU**, with cross-validation tools and GUI-based metric visualization.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-* 🤖 **NLP Property Chatbot** — A natural language interface enabling users to **query property listings conversationally**, integrating NLP intent detection with backend search and recommendation systems.
+**Machine Learning and AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend and Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-# 📌 Projects I'm Proud Of
+## 🚀 Featured Projects
 
-* 🚇 **Delhi Veins — Metro Routing Engine** — Graph-based metro routing engine built in **C++** implementing optimized **Dijkstra with multi-objective path calculation** (distance + interchange cost). Includes **LRU caching and multi-thread optimizations** for efficient route queries.
-
-* 🌐 **Portfolio Website** — Interactive developer portfolio built with **React, JavaScript, Tailwind, GSAP ScrollTrigger, SVG animations, and Spline 3D**, focusing on immersive UI storytelling and smooth animation systems.
-
-* 📊 **Customer Behaviour Analysis** — Market basket and purchasing pattern analysis using **Python, SQL, and Power BI**, transforming Kaggle transaction datasets into actionable insights through visual dashboards.
-
-* 🌱 **Potato Disease Classification** — CNN-based deep learning model trained on **10k+ plant images** to classify crop diseases. Achieved **~90-95% accuracy for 3-class classification** and **~75-80% accuracy for 6-class classification**.
-
-* 🎨 **Prompt → Palette Generator** — Streamlit-based ML application that extracts images from APIs like **Unsplash, Pixabay, and Pexels**, then performs **color clustering to generate palettes from user prompts**.
-
-* 📝 **Meeting Summarizer** — Transformer-based NLP system trained on meeting transcript datasets to **generate summaries and extract key participant information from discussions**.
-
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🚇 [Delhi Veins](https://github.com/Diyumana-Bhardwaj/Delhi-Veins) | Metro routing engine with Dijkstra, LRU cache and multi-thread optimization | C++, Graph Algorithms |
+| 🌐 [Portfolio Website](https://diyumanabhardwaj.vercel.app/) | Immersive developer portfolio with 3D, GSAP animations and SVG storytelling | React, GSAP, Spline, Tailwind |
+| 🌱 [Potato Disease Classifier](https://github.com/Diyumana-Bhardwaj) | CNN model on 10k+ images, 90-95% accuracy for crop disease detection | Python, TensorFlow, Keras |
+| 🎨 [Prompt to Palette](https://github.com/Diyumana-Bhardwaj/Prompt_2_Palette) | ML app that generates color palettes from text prompts via image APIs | Python, Streamlit, Clustering |
+| 📝 [Meeting Summarizer](https://github.com/Diyumana-Bhardwaj) | Transformer-based NLP system to summarize meetings and extract key info | Python, NLP, Transformers |
+| 🧩 [Sudoku Solver](https://github.com/Diyumana-Bhardwaj/Sudoku-Solver) | Java app with intuitive UI and algorithm visualization for Sudoku solving | Java |
 
 ---
 
-### 💬 Let's Connect
+## 🚧 Currently Building
 
-- 💼 [LinkedIn](https://linkedin.com/in/diyumana-bhardwaj) – Let's network !
-- 🌐 [Portfolio](https://diyumanabhardwaj.vercel.app/) – If you are interested in my work !
-- 📫 Reach me at: bhardwajdiyumana@gmail.com
+- 🏠 **Real Estate Recommendation Platform** — Full-stack platform with ML-based filtering, similarity recommendations, and an NLP chatbot for natural language property queries
+- 📈 **Unified Time-Series Forecasting Framework** — Reusable pipeline supporting ARIMA, LSTM, GRU with auto preprocessing, seasonality detection and GUI metric visualization
+- 🤖 **NLP Property Chatbot** — Conversational interface for querying property listings using NLP intent detection
 
 ---
 
-### ✨ Thoughts
-> Exploring tech  world is my version of traveling — one bug at a time! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px">❤️
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Diyumana-Bhardwaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyumana-Bhardwaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Diyumana-Bhardwaj&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyumana-Bhardwaj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect and Build Something Amazing!
+
+*"Exploring tech is my version of traveling — one bug at a time!"* 🌍
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:2d1b69&height=100&section=footer" width="100%"/>
+
+</div>
