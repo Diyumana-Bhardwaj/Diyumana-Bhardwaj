@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:2d1b69&height=220&section=header&text=Diyumana%20Bhardwaj&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Explorer%20%7C%20Systems%20Builder%20%7C%20Creative%20Technologist&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,50:1a0533,100:2d1b69&amp;height=220&amp;section=header&amp;text=Diyumana%20Bhardwaj&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Explorer%20%7C%20Systems%20Builder%20%7C%20Creative%20Technologist&amp;descAlignY=58&amp;descSize=17&amp;animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%7C+AI+%26+ML+Specialization;Building+where+ML+meets+real-world+engineering;Python+%7C+C%2B%2B+%7C+React+%7C+TensorFlow;Open+to+Internships+%26+Collaborations" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=B.Tech+CSE+%7C+AI+%26+ML+Specialization;Building+where+ML+meets+real-world+engineering;Python+%7C+C%2B%2B+%7C+React+%7C+TensorFlow;Open+to+Internships+%26+Collaborations" alt="Typing SVG"/>
 
 <br/>
 
@@ -103,10 +103,10 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Diyumana-Bhardwaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyumana-Bhardwaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Diyumana-Bhardwaj&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyumana-Bhardwaj&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Diyumana-Bhardwaj&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Diyumana-Bhardwaj&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa" width="60%"/>
 
 </div>
 
@@ -115,7 +115,7 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
 ## Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyumana-Bhardwaj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyumana-Bhardwaj&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=a78bfa&amp;point=ffffff" width="95%"/>
 </div>
 
 ---
@@ -134,11 +134,11 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="55%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" width="55%"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:2d1b69&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,50:1a0533,100:2d1b69&amp;height=80&amp;section=footer" width="100%"/>
 
 <sup>⭐ If you like what I build, drop a star! &nbsp;•&nbsp; "One bug at a time 🐛"</sup>
 
