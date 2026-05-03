@@ -103,10 +103,10 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Diyumana-Bhardwaj&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyumana-Bhardwaj&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Diyumana-Bhardwaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyumana-Bhardwaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800&v=2" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Diyumana-Bhardwaj&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Diyumana-Bhardwaj&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&cache_seconds=1800&v=2" width="60%"/>
 
 </div>
 
@@ -115,7 +115,7 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
 ## Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyumana-Bhardwaj&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=a78bfa&amp;point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyumana-Bhardwaj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&cache_seconds=1800&custom_title=Diyumana%20Bhardwaj's%20Contribution%20Graph&v=2" width="95%"/>
 </div>
 
 ---
