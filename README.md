@@ -119,7 +119,7 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyumana-Bhardwaj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&cache_seconds=1800&custom_title=Diyumana%20Bhardwaj's%20Contribution%20Graph&v=2" width="95%"/>
 </div>
 
----
+<!--
 
 ## Snake Eating My Contributions
 
@@ -130,6 +130,7 @@ I enjoy building systems where **machine learning, algorithms, and real-world so
   <img alt="github-snake" src="https://raw.githubusercontent.com/Diyumana-Bhardwaj/Diyumana-Bhardwaj/output/github-snake.svg"/>
 </picture>
 </div>
+-->
 
 ---
 
